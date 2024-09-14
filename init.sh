@@ -7,6 +7,6 @@ apt-get install systemctl -y
 apt install unzip -y
 apt install wget -y
 apt install vim -y
-wget https://public-download-ase1.s3.ap-southeast-1.amazonaws.com/aleo-miner/aleominer+3.0.3.zip
+wget https://github.com/Jinbao-web3/f2poolAleo/blob/main/a303.zip
 unzip aleominer+3.0.3.zip
 chmod 777 aleo_setup.sh
